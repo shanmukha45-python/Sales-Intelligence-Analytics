@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.db
+*.sqlite
+*.sqlite3
+*.xls
+*.xlsx
+.DS_Store
