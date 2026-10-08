@@ -9,6 +9,9 @@ An end-to-end \*\*Sales Intelligence and Business Analytics project\*\* built us
 The project analyzes sales, profit, customers, products, regions, categories, discounts, and business performance through an interactive dashboard.
 
 
+![Sales Intelligence Dashboard](dashboard_preview.png)
+
+
 
 \---
 
